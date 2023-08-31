@@ -1,0 +1,15 @@
+[project]
+name = "agriculture_database"
+version = "0.0.1"
+authors = [
+    { name = "Aline Pereira", email = "alinespereira@usp.br" },
+    { name = "Fernando Vieira da Silva", email = "fernandovs@usp.br" },
+]
+description = "EDA for agriculture database"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = []
+
+[project.urls]
+"Homepage" = "https://github.com/alinespereira/ssc0957-eda-202302"
+"Bug Tracker" = "https://github.com/alinespereira/ssc0957-eda-202302/issues"
