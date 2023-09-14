@@ -11,8 +11,8 @@
 
 # Próximos passos
 
-- [ ] Análise univariada das demais variáveis numéricas;
-- [ ] Análise univariada das variáveis categóricas;
+- [x] Análise univariada das demais variáveis numéricas;
+- [x] Análise univariada das variáveis categóricas;
 - [ ] Analisar a presença de valores nulos nas colunas `PREC` e `FOTO.PERIODO`;
 - [ ] Remover variáveis correlacionadas;
 - [ ] Visualizar dados de altitude, vento e direção do vento no mapa;
